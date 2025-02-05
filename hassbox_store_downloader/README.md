@@ -1,6 +1,6 @@
 # HassBox 应用商店 - 加载项下载助手
 
-HassBox应用商店 在安装加载项时会自动启动，下载完成后会自动停止。
+HassBox应用商店 在下载加载项时会自动启动，下载完成后会自动停止。
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
 
