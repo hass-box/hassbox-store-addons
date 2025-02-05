@@ -15,4 +15,4 @@ map:
   - addons:rw
 ports:
   80/tcp: 9222
-image: "hassbox/{arch}-hassbox-store-downloader"
+image: "registry.cn-hangzhou.aliyuncs.com/hassbox/{arch}-hassbox-store-downloader"
